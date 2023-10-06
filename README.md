@@ -1,44 +1,25 @@
-# Hello, I'm AmirMohammad Khodabande! 👋
+<h1 align="center">Hi 👋, I'm Amirmohammad</h1>
+<h3 align="center">A passionate frontend developer from Iran</h3>
 
-I'm a passionate [Your Profession] based in [Your Location]. I love to explore and work with different technologies and create web applications that make a difference. Here, you'll find some of my work and contributions.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amikhodabande/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ikhodabande)
 
-## 🚀 Skills
+- 🔭 I’m currently working on **JavaScript to complete this skill at an advanced level**
 
-- Front-end Development (HTML, CSS, JavaScript)
-- [Add more skills]
-- [Add more skills]
+- 🌱 I’m currently learning **Frameworks, Courses &...**
 
-## 🔧 Technologies & Tools
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/amikhodabande](https://www.linkedin.com/in/amikhodabande)
 
-- [Technology/Tool 1]
-- [Technology/Tool 2]
-- [Technology/Tool 3]
+- 📫 How to reach me **https://www.linkedin.com/in/amikhodabande**
 
-## 📂 Featured Projects
+<!-- <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/ikhodabande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikhodabande" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/amikhodabande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amikhodabande" height="30" width="40" /></a>
+<a href="https://instagram.com/ikhodabande" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ikhodabande" height="30" width="40" /></a>
+</p> -->
+<!-- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> -->
 
-Here are some of my featured projects:
-
-- [Project 1](link-to-project-1): Brief description of project 1.
-- [Project 2](link-to-project-2): Brief description of project 2.
-- [Project 3](link-to-project-3): Brief description of project 3.
-
-Feel free to explore more of my work on [my GitHub profile](https://github.com/your-username).
-
-## 📫 Get in Touch
-
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
-- Twitter: [Your Twitter Profile](https://twitter.com/your-twitter-profile)
-- Email: [Your Email Address]
-
-## 🌐 My Personal Website
-
-You can find more about me and my work on [my personal website](https://www.your-website.com).
-
-## ❤️ Support My Work
-
-If you find my work interesting and would like to support me, you can:
-
-- ☕ Buy me a coffee: [Link to Buy Me a Coffee](https://www.buymeacoffee.com/your-username)
-- 💬 Leave a message or feedback on my projects.
-
-Thank you for stopping by! Feel free to reach out and connect with me. 😊
+![Metrics](https://metrics.lecoq.io/ikhodabande?template=classic&base.hireable=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&habits=1&achievements=1&activity=1&posts=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&posts=false&posts.source=dev.to&posts.user=.user.login&posts.descriptions=false&posts.covers=false&posts.limit=4&config.timezone=Asia%2FTehran)
